@@ -1,1 +1,1 @@
-# Red social - eureka
+# Red social - eureka server
